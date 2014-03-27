@@ -1,7 +1,7 @@
 French tech talents, the trusted list
 =====================================
 
-This is A list of french tech talents, not perfect (it can not be by nature ça sert vraiment de mettre ça ?), but at least it is made by us: developers, devops, sysadmins, people who understand tech, people who know best the french tech people.
+This is A list of french tech talents, not perfect, but at least it is made by us: developers, devops, sysadmins, people who understand tech, people who know best the french tech people.
 
 This is an open-source "crowd-written" list. It is curated by [#while42](http://while42.org) (The French Tech Engineers Network) members. Anyone who understand tech and know french tech people can complete it by sending a pull-request, because everyone should be able to participate (that's why it is written in English).
 
